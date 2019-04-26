@@ -1,2 +1,7 @@
 # C-sharp
-C# study
+
+1. C# study git
+https://github.com/ericchoi426
+
+2. C# study blog
+http://blog.daum.net/csharpstudy
